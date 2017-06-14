@@ -1,0 +1,23 @@
+{
+  "name": "Freifunk SHS",
+  "url": "http://www.freifunk-shs.de",
+  "location": {
+    "city": "Schloss Holte-Stukenbrock",
+    "country": "DE",
+    "lat": 51.907766,
+    "lon": 8.611414
+  },
+  "contact": {
+    "email": "info@freifunk-shs.de"
+  },
+  "state": {
+    "lastchange": "2017-06-14T16:43:32.863Z",
+    "focus": []
+  },
+  "api": "0.4.14",
+  "techDetails": {
+    "routing": [],
+    "updatemode": [],
+    "legals": []
+  }
+}
